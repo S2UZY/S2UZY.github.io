@@ -1,9 +1,9 @@
 ---
-title: "Machine Learning"
+title: "Clean Code"
 layout: category
-permalink: /categories/machine-learning/
+permalink: /categories/Clean-Code/
 author_profile: true
-taxonomy: Machine Learning
+taxonomy: Clean Code
 sidebar:
   nav: "categories"
 ---
