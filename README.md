@@ -14,11 +14,8 @@
 > 🌴 **목차**
 
 ┌ `Algorithm`  
-├ `C++`  
-├ `Python`  
 ├ `Git`  
-├ `GitHub Blog`  
-├ `Maching Learning`  
+├ `Clean Code`  
 └ `Web`
 
 ---
