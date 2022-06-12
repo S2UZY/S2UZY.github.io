@@ -44,7 +44,9 @@ last_modified_at: 2022-06-11
 크롬은 대부분의 브라우저와 달리 탭마다 별도의 렌더링 엔진 인스턴스를 유지한다고 한다. 
 
 탭마다 독립된 프로세스로 처리된다.
+
 <br>
+
 ## 렌더링 엔진
 ### 렌더링 엔진의 역할
 - 요청 받은 내용을 브라우저 화면에 표시
@@ -55,7 +57,9 @@ last_modified_at: 2022-06-11
 파이어폭스 : 게코(Gecko) 엔진
 
 사파리, 크롬 : 웹킷 (Webkit) 엔진
+
 <br>
+
 ## 동작 과정
 렌더링 엔진은 통신으로부터 요청한 문서의 내용을 얻는 것으로 시작한다. 문서의 내용은 보통 8KB단위로 전송한다. 
 
@@ -92,7 +96,10 @@ last_modified_at: 2022-06-11
 - 브러우저가 코드를 이해하고 사용할 수 있는 구조로 변환하는 것
 - 파싱 결과 구조를 파싱 트리 (parse tree) , 문법트리(syntax tree) 라고 부른다.
 - 위에 사진은 2+3-1 같은 표현식을 파싱한 트리노드이다.
+
+
 <br>
+
 ## DOM (Document Object Model)
 DOM은 문서 객체 모델의 준말이다. DOM은 HTML 문서의 객체표현이고 자바스크립트, CSS같은 언어들이 DOM구조에 접근하여 커스텀 할 수 있게 연결 부분 역할을 갖는다. 
 
@@ -101,29 +108,38 @@ HTML에만 국한된 것이 아니라 XML 역시 DOM으로 표현해서 사용�
 ![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse3/Untitled%204.png)
 
 DOM은 마크업과 1:1의 관계를 맺는 것을 위에 그림을 보고 알 수 있다.
+
 <br>
+
 ## 웹킷 CSS 파서
 ![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse3/Untitled%205.png)
 
 CSS파일은 스타일시트 객체로 파싱되고 각 객체는 CSS규칙을 포함한다.
 
 이미지를 보면 왼쪽트리에 선택자가 들어가고 오른쪽 트리엔 선언문이 들어간다.
+
 <br>
+
 ## DOM트리와 렌더트리의 관계
 ![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse3/Untitled%206.png)
 
 위 그림처럼 렌더트리가 구성된다 할 수 있다.
 
 블럭은 어떤 영역을 가지는 벽돌과 같은 것이라고 생각하면 되는데 얘는 블록이야~ 이런식으로 디스플레이 정보를 표현해주는 것이다.
+
 <br>
+
 ## CSS Box model
 ![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse3/Untitled%207.png)
 
 CSS 박스모델은 문서 트리에 있는 요소를 위해 생성되고 시각적 서식 모델에 따라 배치된 사각형 박스를 설명한다. 박스엔 content, padding, border, margin이 있다. 
 
 각 노드는 이런 상자를 0개에서 n개 생성한다.
+
 <br>
 ---
 **Reference**
-[NAVER D2](https://d2.naver.com/helloworld/59361) , 
+
+[NAVER D2](https://d2.naver.com/helloworld/59361)
+
 [How Browsers Work: Behind the scenes of modern web browsers - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)

@@ -35,11 +35,13 @@ last_modified_at: 2022-06-11
 ![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse2/Untitled.png)
 ### 인터넷
 - TCP/IP 기반의 네트워크가 전세계적으로 확대되어 하나의 연결된 네트워크들의 네트워크 = 수많은 네트워크들의 결합체
+  
 ### HTTP란?
 - 팀 버너스리와 CERN에서 웹 브라우저와 HTML, HTTP 관련 기술을 발명
 - 서버와 클라이언트가 인터넷상에서 데이터를 주고 받기 위한 프로토콜
 - 어떤 종류의 데이터도 전송할 수 있도록 설계되어있다.
 - 부스트코스에선 http v1.1 사용
+  
 ### HTTP 작동방식   
 ![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse2/Untitled%201.png)
     
@@ -57,12 +59,12 @@ last_modified_at: 2022-06-11
 ## HTTP 요청/응답 데이터 포멧
 ### 요청 데이터 포멧
 <Mark>Header</Mark>     
-[첫번째 줄]
+첫번째 줄:
 -  요청 메서드 (GET, POST, PUT,DELETE,HEAD, OPTIONS, TRACE 등 )
 - 요청 URL ( /test/query?a=10 )
 - 프로토콜 버전 명시 ( HTTP/1.1 )
             
-[두번째 줄부터]
+두번째 줄부터:
 - 여러줄의 헤더 정보
 - 헤더 명과 헤더값이 콜론으로 구분
 - 각 줄은 라인피드와 캐리지리턴으로 구분
@@ -94,7 +96,9 @@ last_modified_at: 2022-06-11
 - 물리적인 컴퓨터를 찾은 후에 해당 컴퓨터안에 등장하는 소프트웨어 서버를 찾기 위해서는 포트 값 필요
 - 각 서버는 하나의 방이 필요하다. 포트번호가 각각 달라야한다.
 - HTTP 서버는 기본 포트값이 80번
+  
 <br>
+
 ---
 ## 웹 프론트엔드
 - 사용자에게 웹을 통해 다양한 콘텐츠(문서, 동영상, 사진 등)을 제공한다.
