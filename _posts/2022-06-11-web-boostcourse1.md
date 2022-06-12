@@ -12,12 +12,12 @@ permalink: /web/boostcourse1/
 toc: true
 toc_sticky: true
  
-date: 2022-06-12
-last_modified_at: 2022-06-12
+date: 2022-06-11
+last_modified_at: 2022-06-11
 ---
 
 
-![Untitled](/assets/images/posts_img/2022-06-12-web-boostcourse1/Untitled.png)
+![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse1/Untitled.png)
 
 ## 🙋🏻‍♀️부스트코스 시작 전, TMI
 
@@ -68,7 +68,7 @@ C# Unity 개발만 하던 나에게 회사에서 <mark>웹페이지 개발할 �
 
 ## 부스트코스 블로그 활용 규칙
 
-![Untitled](/assets/images/posts_img/2022-06-12-web-boostcourse1/Untitled%201.png)
+![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse1/Untitled%201.png)
 
 - 출처를 밝히고 학습내용을 정리할 예정이다.
 - 프로젝트와 관련된 소스코드는 비공개로 git으로 관리할 예정이다.
