@@ -1,6 +1,6 @@
 ---
 title:  "[Boostcourse] Web개발의 이해 (HTTP프로토콜, FE/BE)"
-excerpt: "웹의 동작 방식, 요청데이터 포멧에 대해서 알아보자"
+excerpt: "웹의 동작 방식, 요청데이터 포멧"
 
 categories:
   - Web
