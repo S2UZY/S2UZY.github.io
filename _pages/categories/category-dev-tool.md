@@ -1,9 +1,9 @@
 ---
-title: "Git"
+title: "Dev Tool"
 layout: category
-permalink: /categories/git/
+permalink: /categories/dev-tool/
 author_profile: true
-taxonomy: Git
+taxonomy: Dev Tool
 sidebar:
   nav: "categories"
 ---

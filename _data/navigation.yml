@@ -22,12 +22,12 @@ categories:
   #   url: /categories/c-cpp/
   # - title: "Python"
   #   url: /categories/python/
-  - title: "Algorithm"
-    url: /categories/algorithm/
   - title: "Web"
     url: /categories/web/
-  - title: "Git"
-    url: /categories/git/
+  - title: "Algorithm"
+    url: /categories/algorithm/
+  - title: "Dev Tool"
+    url: /categories/dev-tool/
   - title: "Clean Code"
     url: /categories/clean-code/
   - title: "Etc"
