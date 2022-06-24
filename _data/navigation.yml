@@ -24,10 +24,10 @@ categories:
   #   url: /categories/python/
   - title: "Web"
     url: /categories/web/
+  - title: "Tool"
+    url: /categories/tool/
   - title: "Algorithm"
     url: /categories/algorithm/
-  - title: "Dev Tool"
-    url: /categories/dev-tool/
   - title: "Clean Code"
     url: /categories/clean-code/
   - title: "Etc"
