@@ -1,5 +1,5 @@
 ---
-title: "Hi all! I'm suzi😊👋🏻"
+title: "Hi all! I'm suzy😊👋🏻"
 permalink: /about/
 layout: single
 comments: false
@@ -16,14 +16,14 @@ comments: false
           <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">  Seoul, Korea</span>
         </li>
         <li>
-          <a href="https://github.com/S2UZI" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">  https://github.com/S2UZI</span>
+          <a href="https://github.com/S2UZY" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">  https://github.com/S2UZY</span>
           </a>
         </li>
         <li>
-          <a href="mailto:suzi.hppy@gmail.com">
-            <meta itemprop="email" content="suzi.hppy@gmail.com" />
-            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">  suzi.hppy@gmail.com</span>
+          <a href="mailto:suzy.hppy@gmail.com">
+            <meta itemprop="email" content="suzy.hppy@gmail.com" />
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">  suzy.hppy@gmail.com</span>
           </a>
         </li>
         <!-- <li>
