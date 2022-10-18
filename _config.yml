@@ -16,14 +16,14 @@ minimal_mistakes_skin: "plum" #"plum", "default" "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "S2UZI Devlog"
+title: "S2UZY Devlog"
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
-name: "S2UZI"
-description: "S2UZI DevLog"
-url: "https://S2UZI.github.io"
+name: "S2UZY"
+description: "S2UZY DevLog"
+url: "https://S2UZY.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "S2UZI/S2UZI.github.io"
+repository: "S2UZY/S2UZY.github.io"
 teaser: #
 # logo                     : "/assets/images/meee.svg"
 #"/assets/images/monster.png"
@@ -95,7 +95,7 @@ analytics:
 
 # Site Author
 author:
-  name: "S2UZI"
+  name: "S2UZY"
   avatar: "/assets/images/meee.svg"
   #   bio              : "Hamppiness!"
   # location         : "Seoul, Korea"
@@ -115,7 +115,7 @@ author:
 #       # url: "https://facebook.com/"
 # - label: "GitHub"
 #   icon: "fab fa-fw fa-github"
-#   url: "https://github.com/S2UZI"
+#   url: "https://github.com/S2UZY"
 # - label: "Instagram"
 #   icon: "fab fa-fw fa-instagram"
 #   url: "https://www.instagram.com/choiiis.dev/"
