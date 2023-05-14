@@ -1,7 +1,7 @@
 ---
 title: "Web"
 layout: category
-permalink: /categories/web/
+permalink: /web/
 author_profile: true
 taxonomy: Web
 sidebar:
