@@ -1,7 +1,7 @@
 ---
 title: "Linux"
 layout: category
-permalink: /categories/linux/
+permalink: /blog/linux
 author_profile: true
 taxonomy: Linux
 sidebar:

@@ -1,7 +1,7 @@
 ---
 title: "Algorithm"
 layout: category
-permalink: /categories/algorithm/
+permalink: /blog/algorithm
 author_profile: true
 taxonomy: Algorithm
 sidebar:
