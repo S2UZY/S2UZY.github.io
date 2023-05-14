@@ -15,7 +15,7 @@
 > 🌴 **목차**
 
 ┌ `TIL`  
-├ `Webz`  
+├ `Web`  
 ├ `Clean Code`  
 ├ `Algorithm`  
 └ `Etc`
