@@ -7,17 +7,20 @@
 ### Blog History
 
 [VER1.0]
+
 - choiiis' blog theme!
 
 <br>
 
 > 🌴 **목차**
 
-┌ `Algorithm`  
-├ `Git`  
+┌ `TIL`  
+├ `Web`  
 ├ `Clean Code`  
-└ `Web`
+└ `Algorithm`
+└ `Etc`
 
 ---
-choiiis' github blog theme 사용 허락해주신 choiiis님께 감사드립니다.🥰
- (테마 출처 : [`https://choiiis.github.io/`](https://choiiis.github.io/))
+
+choiiis' github blog theme 사용 허락해주신 choiiis님께 감사드립니다.
+(테마 출처 : [`https://choiiis.github.io/`](https://choiiis.github.io/))

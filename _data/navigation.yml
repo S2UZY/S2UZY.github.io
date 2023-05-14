@@ -22,13 +22,13 @@ categories:
   #   url: /categories/c-cpp/
   # - title: "Python"
   #   url: /categories/python/
+  - title: "TIL"
+    url: /categories/til/
   - title: "Web"
     url: /categories/web/
-  - title: "Tool"
-    url: /categories/tool/
-  - title: "Algorithm"
-    url: /categories/algorithm/
   - title: "Clean Code"
     url: /categories/clean-code/
+  - title: "Algorithm"
+    url: /categories/algorithm/
   - title: "Etc"
     url: /categories/Etc/
