@@ -7,7 +7,7 @@ categories:
 tags:
   - [Etc, C#, Json.NET]
 
-permalink: /Etc/C#/Json.NET/
+permalink: /blog/etc/c#/Json.NET
 
 toc: true
 toc_sticky: true
@@ -15,4 +15,3 @@ toc_sticky: true
 date: 2022-06-16
 last_modified_at: 2022-06-16
 ---
-

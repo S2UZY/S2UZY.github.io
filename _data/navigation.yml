@@ -23,12 +23,12 @@ categories:
   # - title: "Python"
   #   url: /categories/python/
   - title: "TIL"
-    url: /categories/til/
+    url: /blog/til
   - title: "Web"
-    url: /web/
+    url: /blog/web
   - title: "Clean Code"
-    url: /categories/clean-code/
-  - title: "Algorithm"
-    url: /categories/algorithm/
+    url: /blog/clean-code
+  - title: "/blog/Algorithm"
+    url: /blog/algorithm
   - title: "Etc"
-    url: /categories/Etc/
+    url: /blog/etc

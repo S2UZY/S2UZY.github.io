@@ -1,7 +1,7 @@
 ---
 title: "Clean Code"
 layout: category
-permalink: /categories/clean-code/
+permalink: /blog/clean-code
 author_profile: true
 taxonomy: Clean Code
 sidebar:

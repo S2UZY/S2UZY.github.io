@@ -1,7 +1,7 @@
 ---
 title: "Tool"
 layout: category
-permalink: /categories/tool/
+permalink: /blog/tool
 author_profile: true
 taxonomy: Tool
 sidebar:

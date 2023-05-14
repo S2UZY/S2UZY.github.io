@@ -1,7 +1,7 @@
 ---
 title: "Templates"
 layout: category
-permalink: /categories/templates/
+permalink: /blog/templates
 author_profile: true
 taxonomy: Templates
 sidebar:
