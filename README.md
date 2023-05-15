@@ -2,7 +2,7 @@
 
 📎 **블로그 바로 가기**
 
-[`https://S2UZY.github.io/`](https://S2UZI.github.io/)
+[`https://s2uzy.github.io/`](https://s2uzy.github.io/)
 
 ### Blog History
 
