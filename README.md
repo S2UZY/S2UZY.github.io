@@ -14,11 +14,11 @@
 
 > 🌴 **목차**
 
-┌ `TIL`  
-├ `Web`  
+┌ `Dev.Event`
+├ `TIL`
 ├ `Clean Code`  
 ├ `Algorithm`  
-└ `Etc`
+└ `Web`
 
 ---
 
