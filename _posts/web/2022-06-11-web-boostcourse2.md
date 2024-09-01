@@ -36,7 +36,7 @@ last_modified_at: 2022-06-11
 
 - 인터넷 ≠ WWW(World Wide Web)
 - 인터넷 기반의 대표 서비스중 하나  
-  ![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse2/Untitled.png)
+  ![Untitled](/assets/images/posts_img/web/2022-06-11-web-boostcourse2/Untitled.png)
 
 ### 인터넷
 
@@ -51,7 +51,7 @@ last_modified_at: 2022-06-11
 
 ### HTTP 작동방식
 
-![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse2/Untitled%201.png)
+![Untitled](/assets/images/posts_img/web/2022-06-11-web-boostcourse2/Untitled%201.png)
 
 HTTP는 서버/클라이언트 모델을 따른다. 클라이언트가 먼저 요청 → 서버가 응답하는 것이다. HTTP는 무상태 프로토콜이라고도 이야기한다. statless 무상태 방식이란 HTTP는 서버가 응답을 하고나면 클라이언트와 연결 끊음 → 다시 요청해도 이전 클라이언트인지 모르는 것을 말한다.
 
@@ -108,7 +108,7 @@ HTTP는 서버/클라이언트 모델을 따른다. 클라이언트가 먼저 �
 - 인터넷 상의 자원의 위치
 - 특정 웹 서버의 특정파일에 접근하기 위한 경로 혹은 주소
 
-![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse2/Untitled%202.png)
+![Untitled](/assets/images/posts_img/web/2022-06-11-web-boostcourse2/Untitled%202.png)
 
 - 물리적인 서버를 찾기 위해서는 ip주소나 도메인 주소 필요
 - 물리적인 컴퓨터를 찾은 후에 해당 컴퓨터안에 등장하는 소프트웨어 서버를 찾기 위해서는 포트 값 필요

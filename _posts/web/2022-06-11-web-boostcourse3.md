@@ -24,7 +24,7 @@ last_modified_at: 2022-06-11
 
 ## 브라우저 기본 구조
 
-![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse3/Untitled.png)
+![Untitled](/assets/images/posts_img/web/2022-06-11-web-boostcourse3/Untitled.png)
 
 1. <mark>User Interface </mark>
    - 주소 표시줄, 이전/다음 버튼, 북마크 메뉴 등 요청한 페이지를 제외한 나머지 부분
@@ -70,7 +70,7 @@ last_modified_at: 2022-06-11
 렌더링 엔진은 통신으로부터 요청한 문서의 내용을 얻는 것으로 시작한다. 문서의 내용은 보통 8KB단위로 전송한다.
 
 다음은 렌더링 엔진의 기본적인 동작과정이다.
-![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse3/Untitled%201.png)
+![Untitled](/assets/images/posts_img/web/2022-06-11-web-boostcourse3/Untitled%201.png)
 
 \*파싱 : 문자단위로 하나하나 해석해서 이 내용이 가직 의미들을 파악
 
@@ -90,14 +90,14 @@ last_modified_at: 2022-06-11
 
 일련의 과정들이 점진적으로 진행된다. 좀 더 나은 사용자 경험을 위해 빠르게 내용을 표시하는데 <mark>모든 HTML을 파싱할때까지 기다리지 않고 배치와 그리기 과정 시작</mark>한다. 네트워크로부터 나머지 내용이 전송되기를 기다리는 동시에 받은 내용의 일부를 먼저 화면에 표시하는 것이다.
 
-![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse3/Untitled%202.png)
+![Untitled](/assets/images/posts_img/web/2022-06-11-web-boostcourse3/Untitled%202.png)
 렌더링 엔진마다 다르지만 위에 그림은 웹킷의 동작과정이다.
 
 <br>
 
 ## 파싱
 
-![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse3/Untitled%203.png)
+![Untitled](/assets/images/posts_img/web/2022-06-11-web-boostcourse3/Untitled%203.png)
 
 **문서파싱**
 
@@ -113,7 +113,7 @@ DOM은 문서 객체 모델의 준말이다. DOM은 HTML 문서의 객체표현�
 
 HTML에만 국한된 것이 아니라 XML 역시 DOM으로 표현해서 사용할 수 있다. DOM도 W3C에 의해 명세가 정해져있다.
 
-![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse3/Untitled%204.png)
+![Untitled](/assets/images/posts_img/web/2022-06-11-web-boostcourse3/Untitled%204.png)
 
 DOM은 마크업과 1:1의 관계를 맺는 것을 위에 그림을 보고 알 수 있다.
 
@@ -121,7 +121,7 @@ DOM은 마크업과 1:1의 관계를 맺는 것을 위에 그림을 보고 알 �
 
 ## 웹킷 CSS 파서
 
-![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse3/Untitled%205.png)
+![Untitled](/assets/images/posts_img/web/2022-06-11-web-boostcourse3/Untitled%205.png)
 
 CSS파일은 스타일시트 객체로 파싱되고 각 객체는 CSS규칙을 포함한다.
 
@@ -131,7 +131,7 @@ CSS파일은 스타일시트 객체로 파싱되고 각 객체는 CSS규칙을 �
 
 ## DOM트리와 렌더트리의 관계
 
-![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse3/Untitled%206.png)
+![Untitled](/assets/images/posts_img/web/2022-06-11-web-boostcourse3/Untitled%206.png)
 
 위 그림처럼 렌더트리가 구성된다 할 수 있다.
 
@@ -141,7 +141,7 @@ CSS파일은 스타일시트 객체로 파싱되고 각 객체는 CSS규칙을 �
 
 ## CSS Box model
 
-![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse3/Untitled%207.png)
+![Untitled](/assets/images/posts_img/web/2022-06-11-web-boostcourse3/Untitled%207.png)
 
 CSS 박스모델은 문서 트리에 있는 요소를 위해 생성되고 시각적 서식 모델에 따라 배치된 사각형 박스를 설명한다. 박스엔 content, padding, border, margin이 있다.
 
