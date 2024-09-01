@@ -63,7 +63,7 @@ WAS자체에 문제가 발생한 경우, 앞단의 웹 서버단에서 해당 WA
 
 대규모 웹 애플리케이션에서는 무중단으로 운영하기 위해 상당히 중요한 기능이다.
 
-![Untitled](/assets/images/posts_img/2022-06-11-web-boostcourse4/Untitled.png)
+![Untitled](/assets/images/posts_img/web/2022-06-11-web-boostcourse4/Untitled.png)
 
 ### **구성하는 역할**
 
