@@ -22,6 +22,8 @@ categories:
   #   url: /categories/c-cpp/
   # - title: "Python"
   #   url: /categories/python/
+  - title: "Dev Event"
+    url: /blog/dev-event
   - title: "TIL"
     url: /blog/til
   - title: "Web"
@@ -30,5 +32,3 @@ categories:
     url: /blog/clean-code
   - title: "Algorithm"
     url: /blog/algorithm
-  - title: "Etc"
-    url: /blog/etc
